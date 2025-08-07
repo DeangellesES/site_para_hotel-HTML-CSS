@@ -1,3 +1,4 @@
+/* GERAL */
 * {
 	margin:0;
 	padding: 0;
@@ -9,6 +10,26 @@ body {
 	margin: 15px;
 }
 
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+h2 {
+	color: #7d7640;
+	font-size: 1.1em;
+	padding: 5px 0px;
+}
+
+p {
+	font-size: 1em;
+	margin-bottom: 10px;
+}
+
+/* PARTE TOPO */
 #container {
 	background: #ede9cc url(../imagens/bg-container.png) top center repeat-y;
 	margin: 0 auto;
@@ -74,15 +95,9 @@ body {
 	line-height: 2.1em;
 }
 
-a {
-	text-decoration: none;
-}
-
-a.reserva {
-	text-transform: uppercase;
-	background: #a29750;
-	color: #fff5b0;
-	padding: 5px 10px;
+.depoimento {
+	width: 226px;
+	height: 164px;
 	float: right;
 }
 
@@ -90,8 +105,13 @@ a.reserva {
 	margin-top: 15px;
 }
 
-ul {
-	list-style: none;
+/* PARTE DE BAIXO SITE */
+a.reserva {
+	text-transform: uppercase;
+	background: #a29750;
+	color: #fff5b0;
+	padding: 5px 10px;
+	float: right;
 }
 
 ul#navegacao {
@@ -108,12 +128,6 @@ ul#navegacao a {
 
 ul#navegacao a:hover {
 	background: #fdf6be;
-}
-
-.depoimento {
-	width: 226px;
-	height: 164px;
-	float: right;
 }
 
 #area-principal {
@@ -133,24 +147,6 @@ ul#navegacao a:hover {
 .conteudo {
 	margin: 0 auto;
 	width: 90%;
-}
-
-#rodape {
-	clear: both;
-	padding: 16px;
-	background: #fff url(../imagens/bg-rodape.png) repeat-x top;
-	color: #7d7640;
-}
-
-h2 {
-	color: #7d7640;
-	font-size: 1.1em;
-	padding: 5px 0px;
-}
-
-p {
-	font-size: 1em;
-	margin-bottom: 10px;
 }
 
 #beneficios li {
@@ -181,7 +177,13 @@ p {
 	cursor: pointer;
 }
 
-
+/* RODAPE */
+#rodape {
+	clear: both;
+	padding: 16px;
+	background: #fff url(../imagens/bg-rodape.png) repeat-x top;
+	color: #7d7640;
+}
 
 
 
