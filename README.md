@@ -25,4 +25,5 @@
   <li>float e clear: both utilizado</li>
   <li>Manipulação de Backgound</li>
   <li>:hover utilizado</li>
+  <li>text-ident -9000 utilizado</li>
 </ul>
