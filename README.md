@@ -24,4 +24,5 @@
   <li>Utilizando a intidade &copy;todos os direitos reservados</li>
   <li>float e clear: both utilizado</li>
   <li>Manipulação de Backgound</li>
+  <li>:hover utilizado</li>
 </ul>
