@@ -21,7 +21,7 @@
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
   <li>Desenvolvido de forma muito simples apenas com divs</li>
-  <li>Utilizando a intidade &copy;todos os direitos reservados</li>
+  <li>Utilizando a entidade &copy;todos os direitos reservados</li>
   <li>float e clear: both utilizado</li>
   <li>Manipulação de Backgound</li>
   <li>:hover utilizado</li>
