@@ -1,7 +1,7 @@
 <h1>Projeto: Site para um Hotel</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto simples e Fictício de um Hotel. Desenvolvido durante um curso de HTML e CSS, para estudo e prática.</p>
+<p>Projeto front-end simples e fictício de um Hotel. Desenvolvido durante um curso de HTML e CSS, para estudo e prática.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/site_para_hotel-HTML-CSS/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
